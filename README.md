@@ -1,5 +1,5 @@
 # Strive
-Strive is a project that I, along with 8 other teammates, submitted for the Yale Center for Biomedical Innovation and Technology Healthcare Hackathon. I was a co-designer of the app that was prototyped using Figma.
+Strive is a project that I, along with 8 other teammates, submitted for the Yale Center for Biomedical Innovation and Technology Healthcare Hackathon in January 2021. I was a co-designer of the app that was prototyped using Figma.
 
 Project Website:
 https://devpost.com/software/strive-1a8d06
