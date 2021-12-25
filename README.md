@@ -4,22 +4,26 @@ Strive is a project that I, along with 8 other teammates, submitted for the Yale
 Project Website:
 https://devpost.com/software/strive-1a8d06
 
-Strive
-The Need
+The Need:
+
 20% of American women of childbearing age are prescribed oral contraceptive pills [1]. The pill is a widely used and highly effective medication - but only if used properly. Unfortunately, the pill has incredibly low compliance rates.
 
 Over half of users forget to take the pill at least once a month [2]. Over half of users will discontinue using the pill in the first few months of usage [3]. These rates are even worse for adolescents. The pill is taboo, and this lack of compliance is rooted in lacking information: less than half of women receive appropriate counseling on how to use the pill and what side effects to expect [4].
 
-The Solution
+The Solution:
+
 Strive is a mobile app that demystifies birth control and empowers women to take contraception into their own hands. It is completely free and puts women's healthcare in the hands of those who need it the most. We used Figma to build a mock-up: https://www.figma.com/proto/KBLpDQFsoBWc5Xn0hBzo7C/Strive?scaling=scale-down&node-id=2%3A0
 
-The Competition
+The Competition:
+
 Existing birth control applications fall short. They may provide recommendations, but these are hidden behind a paywall. They may provide a daily push reminder, but they do not provide specific support if a pill is missed. They may allow for a user to log a symptom, but they don't allow for the analysis of symptoms over time and don't provide context for what is normal and what is not. Patient education is known to increase patient compliance.Strive makes this education personalized, intuitive, and accessible with its adaptive and gamified model.
 
-The Business
+The Business:
+
 Customers will be acquired inexpensively through promoting the app on forums like Reddit, where women are already asking questions about birth control. We will also partner directly with physicians and pharmaceutical companies. When a patient is prescribed birth control, their provider can suggest they download the app. The pharmaceutical company could include a QR code for app download in the patient pamphlet. More information and more compliance benefits the patient, the provider, and the pharmaceutical company simultaneously.
 
-The Future
+The Future:
+
 Women cite forgetfulness, lack of information, and side effects as their most common reasons for pill discontinuation [5]. Let’s Strive for better.
 
 References
